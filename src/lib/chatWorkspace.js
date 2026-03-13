@@ -9,7 +9,7 @@ function createMessageBase(role, metadata = {}) {
   };
 }
 
-export const TEAM_MODE_AGENT_ID = "smart";
+export const TEAM_MODE_AGENT_ID = "team";
 export const TEAM_MODE_AGENT_NAME = "Team Mode";
 
 export function listTeamEligibleAgents(agents) {

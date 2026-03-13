@@ -1,0 +1,1 @@
+recursive-include src/agent_foundry_ui/dist *

@@ -1,5 +1,7 @@
 node_modules/
 dist/
+!src/agent_foundry_ui/dist/
+!src/agent_foundry_ui/dist/**
 .venv/
 *.egg-info/
 *.pyc

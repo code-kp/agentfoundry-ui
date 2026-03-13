@@ -1,4 +1,6 @@
 node_modules/
 dist/
+.venv/
+*.egg-info/
 *.pyc
 __pycache__/

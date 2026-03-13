@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/agent_foundry_ui/__init__.py
+src/agent_foundry_ui/fastapi.py
+src/agent_foundry_ui/dist/index.html
+src/agent_foundry_ui/dist/assets/index-CFddGRoF.css
+src/agent_foundry_ui/dist/assets/index-dTWV9S4k.js
+src/agentfoundry_ui.egg-info/PKG-INFO
+src/agentfoundry_ui.egg-info/SOURCES.txt
+src/agentfoundry_ui.egg-info/dependency_links.txt
+src/agentfoundry_ui.egg-info/requires.txt
+src/agentfoundry_ui.egg-info/top_level.txt
